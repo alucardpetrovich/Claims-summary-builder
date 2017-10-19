@@ -6,7 +6,7 @@
     "default_popup": "popup.html",
     "default_title": "Summary builder"
   },
-  "description": "blablabla",
+  "description": "This extension allows the user to build Claims summary in Podio easily just like famous sometimes Kiev Claims Specialist (He was almost Senior by the way) Mykola Levkiv (@infant_annihilator). Also I would to say thank you for @christina_zhurina (my Senior) that helped me with all that a/l's refund policy shit. I probably whould't done this plugin without her help",
   "icons": {
     "32": "icon.png"
   },
