@@ -1,0 +1,19 @@
+{
+  "browser_action": {
+    "default_icon": {
+      "32": "icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Summary builder"
+  },
+  "description": "blablabla",
+  "icons": {
+    "32": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Summary builder",
+  "permissions": [
+    "activeTab"
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,7 @@
+body {
+    background: #0CB3DD url(pickie2.ico) no-repeat center;
+}
+textarea {
+    border-radius: 5px;
+    opacity: 0.82;
+}
