@@ -89,7 +89,7 @@ pls
 pls
 
 Also I would like to admit than all instructions are not case sensetive
-so Norwe is the same as NORWE of norwe
+so Norwe is the same as NORWE or norwe
 
 This is my last gift for ya )). Thank you ladies and gentlemans for all time that I've spend with you. It was very fun )). 
 Special thanks for Christina Zhurina. You've learned me how to work hard and qualitatively. You da best Claims ever :-)
