@@ -106,44 +106,26 @@ pr: proceed;
 aa: assess amount
 bc: booking card            
 pay: paypal
-b: bnk\n- *payment details*\n';
-                break;
-            case 'cr':
-                result += '/credits\n- *payment details*\n';
-                break;
-            case 'vc':
-                result += '- voluntary cancellation (affected flights)\n';
-                break;
-            case 'va':
-                result += '- voluntary assessment (affected flights)\n';
-                break;
-            case 'gc':
-                result += '- guarantee (/route/ cancelled by a/l)\n';
-                break;
-            case 'gsc':
-                result += '- guarantee (/route/ delayed and /routes/ affected)\n';
-                break;
-            case 'g':
-                result += '- guarantee (affected flights)\n';
-                break;
-            case 'mi':
-                result += '- medical issue (MC attached)\n';
-                break;
-            case 'bi':
-                result += '- baggage issue (/details/)\n';
-                break;
-            case 'ci':
-                result += '- check-in issue (/details/)\n';
-                break;
-            case 'hfy':
-                result += '- HF applied';
-                break;
-            case 'my':
-                result += ', Margin can be added (flights in future + cancellable) => /value/\n';
-                break;
-            case 'mn':
-                result += ', no Margin\n';
-                break;
-            case 'hfn':
-                result += '- HF not applied';
-                break;
+b: bank;
+cr: credits
+vc: voluntary cancellation
+va: voluntary assessment
+gc: guarantee (/route/ cancelled by a/l)
+'gsc': guarantee (/route/ delayed and /routes/ affected)
+g: guarantee
+mi: medical issue
+bi: baggage issue
+ci: check-in issue
+hfy: HF applied;
+my: Margin can be added
+mn: no Margin
+hfn: HF not applied;
+
+Addition № 2 (for TO DO section)
+kt: **Kiev Team**;
+bcl: **Brno Claims**
+kcl: **Kiev Claims**
+bo: **BO**
+cs: **CS**
+gds: **GDS**
+avc: **AvC**
