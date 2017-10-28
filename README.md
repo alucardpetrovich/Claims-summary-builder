@@ -99,33 +99,33 @@ Best regards,
 Joshua '50Djents' Travis
 
 Addition № 1 (for Head section)
-s: SUMMARY;
-sa: Summary above
-trfc: Tax refund (flight change) (try this on plugin ))))
-pr: proceed;
-aa: assess amount
-bc: booking card            
-pay: paypal
-b: bank;
-cr: credits
-vc: voluntary cancellation
-va: voluntary assessment
-gc: guarantee (/route/ cancelled by a/l)
-'gsc': guarantee (/route/ delayed and /routes/ affected)
-g: guarantee
-mi: medical issue
-bi: baggage issue
-ci: check-in issue
-hfy: HF applied;
-my: Margin can be added
-mn: no Margin
-hfn: HF not applied;
+- s: SUMMARY;
+- sa: Summary above
+- trfc: Tax refund (flight change) (try this on plugin ))))
+- pr: proceed;
+- aa: assess amount
+- bc: booking card            
+- pay: paypal
+- b: bank;
+- cr: credits
+- vc: voluntary cancellation
+- va: voluntary assessment
+- gc: guarantee (/route/ cancelled by a/l)
+- gsc: guarantee (/route/ delayed and /routes/ affected)
+- g: guarantee
+- mi: medical issue
+- bi: baggage issue
+- ci: check-in issue
+- hfy: HF applied;
+- my: Margin can be added
+- mn: no Margin
+- hfn: HF not applied;
 
 Addition № 2 (for TO DO section)
-kt: **Kiev Team**;
-bcl: **Brno Claims**
-kcl: **Kiev Claims**
-bo: **BO**
-cs: **CS**
-gds: **GDS**
-avc: **AvC**
+- kt: **Kiev Team**;
+- bcl: **Brno Claims**
+- kcl: **Kiev Claims**
+- bo: **BO**
+- cs: **CS**
+- gds: **GDS**
+- avc: **AvC**
